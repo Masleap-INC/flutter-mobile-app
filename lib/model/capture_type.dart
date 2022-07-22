@@ -1,0 +1,5 @@
+
+enum CaptureType {
+  photo,
+  video,
+}

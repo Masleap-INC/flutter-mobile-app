@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inkistry</string>
+    <string name="facebook_app_id">5354577467927279</string>
+    <string name="fb_login_protocol_scheme">fb5354577467927279</string>
+    <string name="facebook_client_token">42c8a1924ec341289302a19031c2901d</string>
+
+</resources>
