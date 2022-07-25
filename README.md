@@ -1,4 +1,4 @@
-# Inkistry - Tattoo application
+# Flutter Mobile App - Tattoo application
 
 An awesome social media and the best mobile app written with Dart & Flutter using Firebase as backend to try any tattoo
 by verified artists in canada.
